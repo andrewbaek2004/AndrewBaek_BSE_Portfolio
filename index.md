@@ -8,7 +8,7 @@ This project that i am working on is a Arduino Pong Game
 ![Arduino_Pong_Game](https://hackster.imgix.net/uploads/attachments/758058/blob_75t8mq47YM.blob?auto=compress%2Cformat&w=900&h=675&fit=min)  
 
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is that i am hoping to have a final prototype of a game of pong that would work and i could possibly play with it to see if it work. I would have 2 controllers to play the pong game to play with a friend or a family memeber and have a screen that would show the game being played. i see that this would be cool and fun project to do like the constructing with the cables to the Arduino was not to hard and fun to make at the same time. 
 
 [![Arduino Pong Game](https://res.cloudinary.com/marcomontalbano/image/upload/v1625848945/video_to_markdown/images/youtube--dK9F5AJM2XI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dK9F5AJM2XI&t=88s&ab_channel=MirkoPavleski "Arduino Pong Game")
 
