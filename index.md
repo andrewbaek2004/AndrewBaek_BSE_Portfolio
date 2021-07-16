@@ -7,18 +7,17 @@ This project that i am working on is a Arduino Pong Game
 
 ![Arduino_Pong_Game](https://hackster.imgix.net/uploads/attachments/758058/blob_75t8mq47YM.blob?auto=compress%2Cformat&w=900&h=675&fit=min)  
 
-# Final Milestone
-My final milestone is that i am hoping to have a final prototype of a game of pong that would work and i could possibly play with it to see if it work. I would have 2 controllers to play the pong game to play with a friend or a family memeber and have a screen that would show the game being played. i see that this would be cool and fun project to do like the constructing with the cables to the Arduino was not to hard and fun to make at the same time. 
+# First Milestone
+Myt first milestone was that i was working on different related coding in Processing and found different things that would set up my Arduino Pong Game by learing the basics in the coding with processing. So what i did was i had 4 different blocks of code for one of them i would make a layout of the pong game and the second block of code i would show 3 different objects moving so i would know for working on porject on how to do that and then the third block of code i would show one object that is moving faster than the other to show how the different speeds work in the code and then the final block of code shows how you can set a ball to move on one side to the other and seeing how collision works in coding as well
 
-[![Arduino Pong Game](https://res.cloudinary.com/marcomontalbano/image/upload/v1625848945/video_to_markdown/images/youtube--dK9F5AJM2XI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dK9F5AJM2XI&t=88s&ab_channel=MirkoPavleski "Arduino Pong Game")
+[![My First Milestone Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1626452411/video_to_markdown/images/youtube--BREkz9nZB40-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/BREkz9nZB40 "My First Milestone Video")
 
 # Second Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
-# First Milestone
+# Final Milestone
   
+My final milestone is that i am hoping to have a final prototype of a game of pong that would work and i could possibly play with it to see if it work. I would have 2 controllers to play the pong game to play with a friend or a family memeber and have a screen that would show the game being played. i see that this would be cool and fun project to do like the constructing with the cables to the Arduino was not to hard and fun to make at the same time. 
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
-
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
