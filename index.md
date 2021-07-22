@@ -3,7 +3,7 @@ This project that i am working on is a Arduino Pong Game
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Andrew Baek | Kennesaw Mountain High School | Computer Engineering | Incoming Senior Grade(12)
+| Andrew Baek | Kennesaw Mountain High School | Computer Engineering/Computer Science | Incoming Senior Grade(12)
 
 ![Arduino_Pong_Game] ![image](https://user-images.githubusercontent.com/87200425/126676327-a992cf3c-b16d-4cbb-9a33-387f8a4eb754.png)
 
@@ -19,7 +19,7 @@ Myt first milestone was that i was working on different related coding in Proces
 # Second Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![My second milestone video](https://res.cloudinary.com/marcomontalbano/image/upload/v1626972178/video_to_markdown/images/youtube--jXC40-CM35s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=jXC40-CM35s&ab_channel=BlueStampEng "My second milestone video")
 # Final Milestone
   
 My final milestone is that i am hoping to have a final prototype of a game of pong that would work and i could possibly play with it to see if it work. I would have 2 controllers to play the pong game to play with a friend or a family memeber and have a screen that would show the game being played. i see that this would be cool and fun project to do like the constructing with the cables to the Arduino was not to hard and fun to make at the same time. 
