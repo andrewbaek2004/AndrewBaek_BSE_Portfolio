@@ -5,7 +5,7 @@ This project that i am working on is a Arduino Pong Game
 |:--:|:--:|:--:|:--:|
 | Andrew Baek | Kennesaw Mountain High School | Computer Engineering | Incoming Senior Grade(12)
 
-![Arduino_Pong_Game](https://hackster.imgix.net/uploads/attachments/758058/blob_75t8mq47YM.blob?auto=compress%2Cformat&w=900&h=675&fit=min)  
+![Arduino_Pong_Game] (https://cdn.discordapp.com/attachments/700389930152755342/867802602456875018/Pong_game.PNG)  
 
 # First Milestone
 Myt first milestone was that i was working on different related coding in Processing and found different things that would set up my Arduino Pong Game by learing the basics in the coding with processing. So what i did was i had 4 different blocks of code for one of them i would make a layout of the pong game and the second block of code i would show 3 different objects moving so i would know for working on porject on how to do that and then the third block of code i would show one object that is moving faster than the other to show how the different speeds work in the code and then the final block of code shows how you can set a ball to move on one side to the other and seeing how collision works in coding as well
