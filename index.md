@@ -6,6 +6,7 @@ This project that i am working on is a Arduino Pong Game
 | Andrew Baek | Kennesaw Mountain High School | Computer Engineering | Incoming Senior Grade(12)
 
 ![Arduino_Pong_Game] [image](https://user-images.githubusercontent.com/87200425/126675276-5ef60f83-8390-4d06-adda-68c751ab7918.png)
+
 ![Controller for pong game](https://user-images.githubusercontent.com/87200425/126676160-0eff64ee-f899-4286-b59a-6cfd09f011dd.jpg)
 
 
