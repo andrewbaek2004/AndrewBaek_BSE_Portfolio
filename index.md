@@ -22,6 +22,10 @@ My second milestone was i would get my 2 potentiometer set it up with the breadb
 [![My second milestone video](https://res.cloudinary.com/marcomontalbano/image/upload/v1626972178/video_to_markdown/images/youtube--jXC40-CM35s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=jXC40-CM35s&ab_channel=BlueStampEng "My second milestone video")
 # Final Milestone
   
-My final milestone is that i am hoping to have a final prototype of a game of pong that would work and i could possibly play with it to see if it work. I would have 2 controllers to play the pong game to play with a friend or a family memeber and have a screen that would show the game being played. i see that this would be cool and fun project to do like the constructing with the cables to the Arduino was not to hard and fun to make at the same time. 
+My final milestone is that i am hoping to have a final prototype of a game of pong that would work and i could possibly play with it to see if it work. I would have 2 potentiometer setup with the breadboard to have 2 paddles that one of it controls one of it and then setup in the arduino. In the coding side i would finish up added collision in the top and the bottom and would hit the paddles. I also added a scoring system where one side score and the other score.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![My Final Milestone Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1627060291/video_to_markdown/images/youtube--a1yXijT8tHo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=a1yXijT8tHo&ab_channel=BlueStampEng "My Final Milestone Video")
+
+# Demo Night 
+
+[![Demo night](https://res.cloudinary.com/marcomontalbano/image/upload/v1627060363/video_to_markdown/images/youtube--mnioCuspy0I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=mnioCuspy0I&ab_channel=BlueStampEng "Demo night")
