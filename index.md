@@ -32,3 +32,8 @@ My final milestone is that i am hoping to have a final prototype of a game of po
 
 
 # Arduino Pong Game with extra modification
+
+# Foruth milestone
+My fourth milestone showcases the way i decided to change my coding software to scratch to make the future additional modifications and what i would do is put all of the code that i coded and added in scratch i would add some unique sound effects to my pong game like when the ball hits the paddle it would make a sound and when the ball hits the goal it makes a different sound.
+
+[![My Fourth Milestone Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628111112/video_to_markdown/images/youtube--5xE0o8iMWS4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=5xE0o8iMWS4&ab_channel=BlueStampEng "My Fourth Milestone Video")
